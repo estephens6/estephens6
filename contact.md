@@ -5,7 +5,7 @@ permalink: /contact/
 feature-img: "img/color.png"
 ---
 
-Want to ask a question? submit it below!
+Want to ask a question? Submit it below!
 <form action="https://getsimpleform.com/messages?form_api_token=fe089587b0ec039c8232e3dbb4f13dde" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission  -->
   <input type='hidden' name='redirect_to' value='http://estephens6.github.io/thank-you/' />
