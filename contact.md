@@ -6,7 +6,7 @@ feature-img: "img/color.png"
 ---
 
 Want to ask a question? Please submit it below!
-<form action="https://getsimpleform.com/messages?form_api_token=_yourtoken_" method="post">
+<form action="https://getsimpleform.com/messages?form_api_token=fe089587b0ec039c8232e3dbb4f13dde" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://estephens6.github.io/thank-you/' />
   <input type='text' name='name' placeholder='Your Full Name' />
