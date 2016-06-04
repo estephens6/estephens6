@@ -8,7 +8,7 @@ theme:
   title: ericCStephens
   avatar: avatar.png
   gravatar: # Email MD5 hash
-  description: "A coding adventure blog with posts and pictures" # used by search engines
+  description: "A coding adventure blog with posts and pictures!" # used by search engines
 
   # Header and footer text
   header_text: 
