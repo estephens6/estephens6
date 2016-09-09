@@ -3,7 +3,7 @@ layout: post
 title: RealityFarm
 feature-img: "img/rfn-biglogo.jpg"
 thumbnail-path: "img/rf-thumbnail.png"
-short-description: video based social network
+short-description: video social network
 
 ---
 
